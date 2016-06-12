@@ -9,7 +9,7 @@
               android:paddingTop="@dimen/activity_vertical_margin"
               tools:context=".MainActivity">
 
-    <com.zhy.sample_okhttp.FlowLayout
+    <com.zhy.sample_okhht.FlowLayout2
         android:layout_width="match_parent"
         android:layout_height="wrap_content">
 
@@ -82,7 +82,7 @@
                 android:onClick="clearSession"
                 android:text="clearSession"/>
 
-    </com.zhy.sample_okhttp.FlowLayout>
+    </com.zhy.sample_okhht.FlowLayout2>
 
     <ProgressBar
         android:id="@+id/id_progress"
